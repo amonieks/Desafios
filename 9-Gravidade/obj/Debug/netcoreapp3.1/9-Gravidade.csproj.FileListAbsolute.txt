@@ -1,0 +1,13 @@
+C:\Users\monie\OneDrive\Documentos\SENAI\Desafios\9-Gravidade\bin\Debug\netcoreapp3.1\9-Gravidade.exe
+C:\Users\monie\OneDrive\Documentos\SENAI\Desafios\9-Gravidade\bin\Debug\netcoreapp3.1\9-Gravidade.deps.json
+C:\Users\monie\OneDrive\Documentos\SENAI\Desafios\9-Gravidade\bin\Debug\netcoreapp3.1\9-Gravidade.runtimeconfig.json
+C:\Users\monie\OneDrive\Documentos\SENAI\Desafios\9-Gravidade\bin\Debug\netcoreapp3.1\9-Gravidade.runtimeconfig.dev.json
+C:\Users\monie\OneDrive\Documentos\SENAI\Desafios\9-Gravidade\bin\Debug\netcoreapp3.1\9-Gravidade.dll
+C:\Users\monie\OneDrive\Documentos\SENAI\Desafios\9-Gravidade\bin\Debug\netcoreapp3.1\9-Gravidade.pdb
+C:\Users\monie\OneDrive\Documentos\SENAI\Desafios\9-Gravidade\obj\Debug\netcoreapp3.1\9-Gravidade.csprojAssemblyReference.cache
+C:\Users\monie\OneDrive\Documentos\SENAI\Desafios\9-Gravidade\obj\Debug\netcoreapp3.1\9-Gravidade.AssemblyInfoInputs.cache
+C:\Users\monie\OneDrive\Documentos\SENAI\Desafios\9-Gravidade\obj\Debug\netcoreapp3.1\9-Gravidade.AssemblyInfo.cs
+C:\Users\monie\OneDrive\Documentos\SENAI\Desafios\9-Gravidade\obj\Debug\netcoreapp3.1\9-Gravidade.csproj.CoreCompileInputs.cache
+C:\Users\monie\OneDrive\Documentos\SENAI\Desafios\9-Gravidade\obj\Debug\netcoreapp3.1\9-Gravidade.dll
+C:\Users\monie\OneDrive\Documentos\SENAI\Desafios\9-Gravidade\obj\Debug\netcoreapp3.1\9-Gravidade.pdb
+C:\Users\monie\OneDrive\Documentos\SENAI\Desafios\9-Gravidade\obj\Debug\netcoreapp3.1\9-Gravidade.genruntimeconfig.cache

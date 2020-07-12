@@ -1,0 +1,13 @@
+C:\Users\monie\OneDrive\Documentos\SENAI\Desafios\6-De0a100\bin\Debug\netcoreapp3.1\6-De0a100.exe
+C:\Users\monie\OneDrive\Documentos\SENAI\Desafios\6-De0a100\bin\Debug\netcoreapp3.1\6-De0a100.deps.json
+C:\Users\monie\OneDrive\Documentos\SENAI\Desafios\6-De0a100\bin\Debug\netcoreapp3.1\6-De0a100.runtimeconfig.json
+C:\Users\monie\OneDrive\Documentos\SENAI\Desafios\6-De0a100\bin\Debug\netcoreapp3.1\6-De0a100.runtimeconfig.dev.json
+C:\Users\monie\OneDrive\Documentos\SENAI\Desafios\6-De0a100\bin\Debug\netcoreapp3.1\6-De0a100.dll
+C:\Users\monie\OneDrive\Documentos\SENAI\Desafios\6-De0a100\bin\Debug\netcoreapp3.1\6-De0a100.pdb
+C:\Users\monie\OneDrive\Documentos\SENAI\Desafios\6-De0a100\obj\Debug\netcoreapp3.1\6-De0a100.csprojAssemblyReference.cache
+C:\Users\monie\OneDrive\Documentos\SENAI\Desafios\6-De0a100\obj\Debug\netcoreapp3.1\6-De0a100.AssemblyInfoInputs.cache
+C:\Users\monie\OneDrive\Documentos\SENAI\Desafios\6-De0a100\obj\Debug\netcoreapp3.1\6-De0a100.AssemblyInfo.cs
+C:\Users\monie\OneDrive\Documentos\SENAI\Desafios\6-De0a100\obj\Debug\netcoreapp3.1\6-De0a100.csproj.CoreCompileInputs.cache
+C:\Users\monie\OneDrive\Documentos\SENAI\Desafios\6-De0a100\obj\Debug\netcoreapp3.1\6-De0a100.dll
+C:\Users\monie\OneDrive\Documentos\SENAI\Desafios\6-De0a100\obj\Debug\netcoreapp3.1\6-De0a100.pdb
+C:\Users\monie\OneDrive\Documentos\SENAI\Desafios\6-De0a100\obj\Debug\netcoreapp3.1\6-De0a100.genruntimeconfig.cache

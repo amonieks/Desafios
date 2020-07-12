@@ -1,0 +1,13 @@
+C:\Users\monie\OneDrive\Documentos\SENAI\Desafios\8-ImgTriangulo\bin\Debug\netcoreapp3.1\8-ImgTriangulo.exe
+C:\Users\monie\OneDrive\Documentos\SENAI\Desafios\8-ImgTriangulo\bin\Debug\netcoreapp3.1\8-ImgTriangulo.deps.json
+C:\Users\monie\OneDrive\Documentos\SENAI\Desafios\8-ImgTriangulo\bin\Debug\netcoreapp3.1\8-ImgTriangulo.runtimeconfig.json
+C:\Users\monie\OneDrive\Documentos\SENAI\Desafios\8-ImgTriangulo\bin\Debug\netcoreapp3.1\8-ImgTriangulo.runtimeconfig.dev.json
+C:\Users\monie\OneDrive\Documentos\SENAI\Desafios\8-ImgTriangulo\bin\Debug\netcoreapp3.1\8-ImgTriangulo.dll
+C:\Users\monie\OneDrive\Documentos\SENAI\Desafios\8-ImgTriangulo\bin\Debug\netcoreapp3.1\8-ImgTriangulo.pdb
+C:\Users\monie\OneDrive\Documentos\SENAI\Desafios\8-ImgTriangulo\obj\Debug\netcoreapp3.1\8-ImgTriangulo.csprojAssemblyReference.cache
+C:\Users\monie\OneDrive\Documentos\SENAI\Desafios\8-ImgTriangulo\obj\Debug\netcoreapp3.1\8-ImgTriangulo.AssemblyInfoInputs.cache
+C:\Users\monie\OneDrive\Documentos\SENAI\Desafios\8-ImgTriangulo\obj\Debug\netcoreapp3.1\8-ImgTriangulo.AssemblyInfo.cs
+C:\Users\monie\OneDrive\Documentos\SENAI\Desafios\8-ImgTriangulo\obj\Debug\netcoreapp3.1\8-ImgTriangulo.csproj.CoreCompileInputs.cache
+C:\Users\monie\OneDrive\Documentos\SENAI\Desafios\8-ImgTriangulo\obj\Debug\netcoreapp3.1\8-ImgTriangulo.dll
+C:\Users\monie\OneDrive\Documentos\SENAI\Desafios\8-ImgTriangulo\obj\Debug\netcoreapp3.1\8-ImgTriangulo.pdb
+C:\Users\monie\OneDrive\Documentos\SENAI\Desafios\8-ImgTriangulo\obj\Debug\netcoreapp3.1\8-ImgTriangulo.genruntimeconfig.cache

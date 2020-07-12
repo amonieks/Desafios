@@ -1,0 +1,13 @@
+C:\Users\monie\OneDrive\Documentos\SENAI\Desafios\5-TrocarDados\bin\Debug\netcoreapp3.1\TrocarDados.exe
+C:\Users\monie\OneDrive\Documentos\SENAI\Desafios\5-TrocarDados\bin\Debug\netcoreapp3.1\TrocarDados.deps.json
+C:\Users\monie\OneDrive\Documentos\SENAI\Desafios\5-TrocarDados\bin\Debug\netcoreapp3.1\TrocarDados.runtimeconfig.json
+C:\Users\monie\OneDrive\Documentos\SENAI\Desafios\5-TrocarDados\bin\Debug\netcoreapp3.1\TrocarDados.runtimeconfig.dev.json
+C:\Users\monie\OneDrive\Documentos\SENAI\Desafios\5-TrocarDados\bin\Debug\netcoreapp3.1\TrocarDados.dll
+C:\Users\monie\OneDrive\Documentos\SENAI\Desafios\5-TrocarDados\bin\Debug\netcoreapp3.1\TrocarDados.pdb
+C:\Users\monie\OneDrive\Documentos\SENAI\Desafios\5-TrocarDados\obj\Debug\netcoreapp3.1\TrocarDados.csprojAssemblyReference.cache
+C:\Users\monie\OneDrive\Documentos\SENAI\Desafios\5-TrocarDados\obj\Debug\netcoreapp3.1\TrocarDados.AssemblyInfoInputs.cache
+C:\Users\monie\OneDrive\Documentos\SENAI\Desafios\5-TrocarDados\obj\Debug\netcoreapp3.1\TrocarDados.AssemblyInfo.cs
+C:\Users\monie\OneDrive\Documentos\SENAI\Desafios\5-TrocarDados\obj\Debug\netcoreapp3.1\TrocarDados.csproj.CoreCompileInputs.cache
+C:\Users\monie\OneDrive\Documentos\SENAI\Desafios\5-TrocarDados\obj\Debug\netcoreapp3.1\TrocarDados.dll
+C:\Users\monie\OneDrive\Documentos\SENAI\Desafios\5-TrocarDados\obj\Debug\netcoreapp3.1\TrocarDados.pdb
+C:\Users\monie\OneDrive\Documentos\SENAI\Desafios\5-TrocarDados\obj\Debug\netcoreapp3.1\TrocarDados.genruntimeconfig.cache
