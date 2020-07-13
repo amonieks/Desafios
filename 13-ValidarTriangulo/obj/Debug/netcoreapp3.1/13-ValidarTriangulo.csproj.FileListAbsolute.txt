@@ -1,0 +1,13 @@
+C:\Users\monie\OneDrive\Documentos\SENAI\Desafios\13-ValidarTriangulo\bin\Debug\netcoreapp3.1\13-ValidarTriangulo.exe
+C:\Users\monie\OneDrive\Documentos\SENAI\Desafios\13-ValidarTriangulo\bin\Debug\netcoreapp3.1\13-ValidarTriangulo.deps.json
+C:\Users\monie\OneDrive\Documentos\SENAI\Desafios\13-ValidarTriangulo\bin\Debug\netcoreapp3.1\13-ValidarTriangulo.runtimeconfig.json
+C:\Users\monie\OneDrive\Documentos\SENAI\Desafios\13-ValidarTriangulo\bin\Debug\netcoreapp3.1\13-ValidarTriangulo.runtimeconfig.dev.json
+C:\Users\monie\OneDrive\Documentos\SENAI\Desafios\13-ValidarTriangulo\bin\Debug\netcoreapp3.1\13-ValidarTriangulo.dll
+C:\Users\monie\OneDrive\Documentos\SENAI\Desafios\13-ValidarTriangulo\bin\Debug\netcoreapp3.1\13-ValidarTriangulo.pdb
+C:\Users\monie\OneDrive\Documentos\SENAI\Desafios\13-ValidarTriangulo\obj\Debug\netcoreapp3.1\13-ValidarTriangulo.csprojAssemblyReference.cache
+C:\Users\monie\OneDrive\Documentos\SENAI\Desafios\13-ValidarTriangulo\obj\Debug\netcoreapp3.1\13-ValidarTriangulo.AssemblyInfoInputs.cache
+C:\Users\monie\OneDrive\Documentos\SENAI\Desafios\13-ValidarTriangulo\obj\Debug\netcoreapp3.1\13-ValidarTriangulo.AssemblyInfo.cs
+C:\Users\monie\OneDrive\Documentos\SENAI\Desafios\13-ValidarTriangulo\obj\Debug\netcoreapp3.1\13-ValidarTriangulo.csproj.CoreCompileInputs.cache
+C:\Users\monie\OneDrive\Documentos\SENAI\Desafios\13-ValidarTriangulo\obj\Debug\netcoreapp3.1\13-ValidarTriangulo.dll
+C:\Users\monie\OneDrive\Documentos\SENAI\Desafios\13-ValidarTriangulo\obj\Debug\netcoreapp3.1\13-ValidarTriangulo.pdb
+C:\Users\monie\OneDrive\Documentos\SENAI\Desafios\13-ValidarTriangulo\obj\Debug\netcoreapp3.1\13-ValidarTriangulo.genruntimeconfig.cache
