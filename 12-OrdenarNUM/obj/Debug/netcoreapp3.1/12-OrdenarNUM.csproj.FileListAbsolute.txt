@@ -1,0 +1,13 @@
+C:\Users\monie\OneDrive\Documentos\SENAI\Desafios\12-OrdenarNUM\bin\Debug\netcoreapp3.1\12-OrdenarNUM.exe
+C:\Users\monie\OneDrive\Documentos\SENAI\Desafios\12-OrdenarNUM\bin\Debug\netcoreapp3.1\12-OrdenarNUM.deps.json
+C:\Users\monie\OneDrive\Documentos\SENAI\Desafios\12-OrdenarNUM\bin\Debug\netcoreapp3.1\12-OrdenarNUM.runtimeconfig.json
+C:\Users\monie\OneDrive\Documentos\SENAI\Desafios\12-OrdenarNUM\bin\Debug\netcoreapp3.1\12-OrdenarNUM.runtimeconfig.dev.json
+C:\Users\monie\OneDrive\Documentos\SENAI\Desafios\12-OrdenarNUM\bin\Debug\netcoreapp3.1\12-OrdenarNUM.dll
+C:\Users\monie\OneDrive\Documentos\SENAI\Desafios\12-OrdenarNUM\bin\Debug\netcoreapp3.1\12-OrdenarNUM.pdb
+C:\Users\monie\OneDrive\Documentos\SENAI\Desafios\12-OrdenarNUM\obj\Debug\netcoreapp3.1\12-OrdenarNUM.csprojAssemblyReference.cache
+C:\Users\monie\OneDrive\Documentos\SENAI\Desafios\12-OrdenarNUM\obj\Debug\netcoreapp3.1\12-OrdenarNUM.AssemblyInfoInputs.cache
+C:\Users\monie\OneDrive\Documentos\SENAI\Desafios\12-OrdenarNUM\obj\Debug\netcoreapp3.1\12-OrdenarNUM.AssemblyInfo.cs
+C:\Users\monie\OneDrive\Documentos\SENAI\Desafios\12-OrdenarNUM\obj\Debug\netcoreapp3.1\12-OrdenarNUM.csproj.CoreCompileInputs.cache
+C:\Users\monie\OneDrive\Documentos\SENAI\Desafios\12-OrdenarNUM\obj\Debug\netcoreapp3.1\12-OrdenarNUM.dll
+C:\Users\monie\OneDrive\Documentos\SENAI\Desafios\12-OrdenarNUM\obj\Debug\netcoreapp3.1\12-OrdenarNUM.pdb
+C:\Users\monie\OneDrive\Documentos\SENAI\Desafios\12-OrdenarNUM\obj\Debug\netcoreapp3.1\12-OrdenarNUM.genruntimeconfig.cache

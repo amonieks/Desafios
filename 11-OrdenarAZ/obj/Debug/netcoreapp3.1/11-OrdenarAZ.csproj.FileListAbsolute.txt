@@ -1,0 +1,13 @@
+C:\Users\monie\OneDrive\Documentos\SENAI\Desafios\11-OrdenarAZ\obj\Debug\netcoreapp3.1\11-OrdenarAZ.csprojAssemblyReference.cache
+C:\Users\monie\OneDrive\Documentos\SENAI\Desafios\11-OrdenarAZ\obj\Debug\netcoreapp3.1\11-OrdenarAZ.AssemblyInfoInputs.cache
+C:\Users\monie\OneDrive\Documentos\SENAI\Desafios\11-OrdenarAZ\obj\Debug\netcoreapp3.1\11-OrdenarAZ.AssemblyInfo.cs
+C:\Users\monie\OneDrive\Documentos\SENAI\Desafios\11-OrdenarAZ\obj\Debug\netcoreapp3.1\11-OrdenarAZ.csproj.CoreCompileInputs.cache
+C:\Users\monie\OneDrive\Documentos\SENAI\Desafios\11-OrdenarAZ\bin\Debug\netcoreapp3.1\11-OrdenarAZ.exe
+C:\Users\monie\OneDrive\Documentos\SENAI\Desafios\11-OrdenarAZ\bin\Debug\netcoreapp3.1\11-OrdenarAZ.deps.json
+C:\Users\monie\OneDrive\Documentos\SENAI\Desafios\11-OrdenarAZ\bin\Debug\netcoreapp3.1\11-OrdenarAZ.runtimeconfig.json
+C:\Users\monie\OneDrive\Documentos\SENAI\Desafios\11-OrdenarAZ\bin\Debug\netcoreapp3.1\11-OrdenarAZ.runtimeconfig.dev.json
+C:\Users\monie\OneDrive\Documentos\SENAI\Desafios\11-OrdenarAZ\bin\Debug\netcoreapp3.1\11-OrdenarAZ.dll
+C:\Users\monie\OneDrive\Documentos\SENAI\Desafios\11-OrdenarAZ\bin\Debug\netcoreapp3.1\11-OrdenarAZ.pdb
+C:\Users\monie\OneDrive\Documentos\SENAI\Desafios\11-OrdenarAZ\obj\Debug\netcoreapp3.1\11-OrdenarAZ.dll
+C:\Users\monie\OneDrive\Documentos\SENAI\Desafios\11-OrdenarAZ\obj\Debug\netcoreapp3.1\11-OrdenarAZ.pdb
+C:\Users\monie\OneDrive\Documentos\SENAI\Desafios\11-OrdenarAZ\obj\Debug\netcoreapp3.1\11-OrdenarAZ.genruntimeconfig.cache
